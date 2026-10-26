@@ -1,0 +1,13 @@
+# Maven build output
+**/target/
+
+# IDE and local environment files
+.idea/
+*.iml
+.vscode/
+
+# Local logs and temporary files
+*.log
+
+# Large presentation recording; keep the repository focused on source and documentation
+*.mp4
